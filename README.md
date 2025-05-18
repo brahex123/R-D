@@ -66,7 +66,7 @@ Open `R&D 1.ipynb` to begin training or `TESTING.ipynb` to reproduce evaluation.
 
 | Task                     | Metric        | STL     | MTL     |
 |--------------------------|---------------|---------|---------|
-| Dialect → MSA Translation | BLEU Score    | 0.0394  | 0.62    |
+| Dialect → MSA Translation | BLEU Score    | 0.0394  | 0.35    |
 | Dialect Classification   | Accuracy      | 73%     | 89%     |
 | Diacritic Restoration    | Accuracy      | 85%     | 92%     |
 
@@ -91,12 +91,9 @@ This project was conducted as part of an academic collaboration between:
 
 ## 📬 Contact
 
-- **Author**: Ibrahim Mechaouat  
+- **Author**: Brahim Mechaouat  
 - [Portfolio](https://brahex123.github.io/ibrahex123.github.io/)  
 - [GitHub](https://github.com/brahex123)
 
 ---
 
-## 📄 License
-
-This project is released under the MIT License.
